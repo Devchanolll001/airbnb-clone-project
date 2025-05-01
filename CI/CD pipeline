@@ -1,0 +1,23 @@
+A CI/CD pipeline is a series of automated steps that allow software development teams to frequently integrate code changes (CI – Continuous Integration) and deliver them quickly and reliably to production (CD – Continuous Delivery/Deployment). The pipeline ensures that every code change is automatically built, tested, and deployed, minimizing human error and speeding up the release cycle.
+
+Why Is It Important for a Project?
+
+Faster Development: Automates repetitive tasks, enabling rapid delivery of features and fixes.
+
+Improved Code Quality: Early detection of bugs through automated testing.
+
+Consistent Deployments: Reduces manual errors and ensures consistent environments.
+
+Quick Feedback: Developers get instant feedback on their code changes.
+
+Common CI/CD Tools
+
+Version Control: Git, GitHub, GitLab, Bitbucket
+
+CI/CD Tools: GitHub Actions, GitLab CI/CD, Jenkins, CircleCI, Travis CI
+
+Build Tools: Maven, Gradle, npm, Docker
+
+Testing Frameworks: JUnit, Selenium, PyTest, Jest
+
+Deployment Tools: Kubernetes, Docker Compose, Helm, AWS CodeDeploy
